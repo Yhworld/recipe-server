@@ -1,0 +1,102 @@
+{
+    "Meals" : [
+      {
+        "id": 1,
+        "name": "Cheese-Burger",
+        "description": "A cheeseburger is a hamburger topped with cheese. Traditionally, the slice of cheese is placed on top of the meat patty. The cheese is usually added to the cooking hamburger patty shortly before serving, which allows the cheese to melt. Cheeseburgers can include variations in structure, ingredients and composition." ,
+        "ingredients" : "Divide the beef into 4 equal portions. Use a patty press (or your hands) to make four burgers. Sprinkle them with the pepper and garlic salt. Pan-fry, broil, or grill the burgers, using canola cooking spray to keep them from sticking to the pan or grill. When the burgers are almost cooked through, place the cheese slices on top and finish cooking (30 to 60 seconds). Remove the burgers to the serving plate. If desired, cover the plate with foil to keep burgers warm and moist. Dress your burger on the bun with the lettuce, sliced tomato and onion, mustard, barbecue sauce, and ketchup as desired.",
+        "category" : "Junk",
+        "orign" : "Usa",
+        "image" : "./Assests/images/pngwing.com.png",
+        "duration" : 30
+      },
+      {
+        "id": 2,
+        "name": "French-Fries",
+        "description": "French fries, chips, finger chips, french-fried potatoes, or simply fries, are batonnet or allumette-cut deep-fried potatoes, disputed origin from Belgium and France. They are prepared by cutting potatoes into even strips, drying them, and frying them, usually in a deep fryer.",
+        "ingredients" : "Peel and rinse the potatoes. Then cut them into sticks by cutting the potato in 4 or 5 vertical pieces, and then cutting each piece into sticks. Place them in a large bowl and cover with cold water. Allow them to soak, 2 to 3 hours. (You can also stick them in the fridge and let them soak overnight.) When you're ready to make the fries, drain off the water and lay the potatoes on 2 baking sheets lined with paper towels. Blot with paper towels to dry them. Heat a few inches of oil in a heavy pot to 300 degrees F. In 3 or 4 batches, cook the potatoes until soft, 4 to 5 minutes per batch. They should not be brown at this point! You just want to start the cooking process. Remove each batch and drain on new/dry paper towels. Once all the potatoes have been fried at 300 degrees F, turn up the heat until the oil reaches 400 degrees F. When the oil's hot, start frying the potatoes in batches again, cooking until the fries are golden and crisp. Remove the potatoes from the oil and drain on paper towels. Sprinkle with sea salt and dive in!" ,
+        "image" : "./Assests/images/pngwing.com (1).png",
+        "category" : "Junk",
+        "orign" : "France",
+        "duration" : 30
+      },
+      {
+        "id": 3,
+        "name": "Pancakes",
+        "image" : "./Assests/images/pngwing.com (2).png" ,
+        "description": "A pancake is a flat cake, often thin and round, prepared from a starch-based batter that may contain eggs, milk and butter and cooked on a hot surface such as a griddle or frying pan, often frying with oil or butter. It is a type of batter bread",
+        "ingredients" : " 1 ½ cups all-purpose flour 3 ½ teaspoons baking powder ¼ teaspoon salt, or more to taste 1 tablespoon white sugar 1 ¼ cups milk 1 egg 3 tablespoons butter, melted",
+        "method" : "In a large bowl, sift together the flour, baking powder, salt and sugar. Make a well in the center and pour in the milk, egg and melted butter; mix until smooth. Heat a lightly oiled griddle or frying pan over medium-high heat. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake. Brown on both sides and serve hot.",
+        "category" : "Breakfast",
+        "orign" : "Ancient Greece",
+        "duration" : 15
+      
+      },
+      {
+        "id": 4,
+        "name": "Pasta",
+        "image": "./Assests/images/pngwing.com (3).png", 
+        "description": "Pasta is a type of food typically made from an unleavened dough of wheat flour mixed with water or eggs, and formed into sheets or other shapes, then cooked by boiling or baking",
+        "ingredients" : "3 tbsp olive oil 1 onion, finely chopped 2 large garlic cloves, crushed ½ tsp chilli flakes (optional) 400g can chopped tomatoes 5 anchovy fillets, finely chopped 120g pitted black olives 2 tbsp capers, drained 300g dried spaghetti ½ small bunch of parsley, finely chopped",
+        "method" : "Heat the oil in a non-stick pan over a medium-low heat. Add the onion along with a generous pinch of salt and fry for 10 mins, or until soft. Add the garlic and chilli, if using, and cook for a further minute. Stir the tomatoes, anchovies, olives and capers into the onion, bring to a gentle simmer and cook, uncovered, for 15 mins. Season to taste. Meanwhile, bring a large pan of salted water to the boil. Cook the spaghetti following pack instructions, then drain and toss with the sauce and parsley.",
+        "category" : "Lunch",
+        "orign" : "China",
+        "duration" : 30
+      },
+      {
+        "id": 5,
+        "name": "Steak",
+        "description": "A steak, also sometimes called \"beef\" steak', is a meat generally sliced across the muscle fibers, potentially including a bone. It is normally grilled, though it can also be pan-fried. Steak can also be cooked in sauce, such as in steak and kidney pie, or minced and formed into patties, such as hamburgers",
+        "ingredients" : "Thickish cut steak. \n Butter, garlic and fresh thyme" ,
+        "image" : "./Assests/images/pngwing.com (4).png" ,
+        "method" : "Pat dry – use paper towels to pat the steaks dry to get a perfect sear and reduce oil splatter. Season generously – just before cooking steaks, sprinkle both sides liberally with salt and pepper. Preheat the pan on medium and brush with oil. Using just 1/2 Tbsp oil reduces splatter. Sear steaks – add steaks and sear each side 3-4 minutes until a brown crust has formed then use tongs to turn steaks on their sides and sear edges (1 min per edge). Add butter and aromatics – melt in butter with quartered garlic cloves and rosemary sprigs. Tilt pan to spoon garlic butter over steaks and cook to your desired doneness. Remove steak and rest 10 minutes before slicing against the grain.",
+        "category" : "Meat",
+        "orign" : "Norse",
+        "duration" : 20
+      },
+      {
+        "id": 6,
+        "name": "Samosa",
+        "description": "A samosa is a fried or baked pastry with a savory filling, including ingredients such as spiced potatoes, onions, and peas. It may take different forms, including triangular, cone, or half-moon shapes, depending on the region. Samosas are often accompanied by chutney, and have origins in medieval times or earlier",
+        "image" : "./Assests/images/pngwing.com (5).png",
+        "ingredients" : "1 ½ tablespoons olive oil  1 lb ground beef(455 g) 1 medium red onion, diced 1 clove garlic, minced   1 jalapeño, minced 1 teaspoon salt   1 teaspoon pepper 1 teaspoon ground coriander 1 teaspoon cumin 4 scallions, diced 1 cup frozen peas(150 g), defrosted 2 tablespoons fresh cilantro, chopped 3 cups all-purpose flour(375 g) ¼ teaspoon salt 2 teaspoons olive oil 1 cup water(240 mL), plus 2 tablespoons more 1 tablespoon flour, mixed with 1 tablespoon of water 3 cups canola oil(720 mL) lime wedge, for serving" ,
+        "method" : "In a large pan over medium-high heat, heat the olive oil. Once hot, add the ground beef. Use a spatula to break apart the meat and cook for 3 minutes. Add onion and cook until beef is brown and onion is translucent, about 4 minutes. Add the garlic, jalapeño, salt, pepper, coriander, cumin, and scallions to the meat. Cook for 2 minutes. Add the peas and cilantro, then cook for another 2 minutes. Remove the meat filling from the heat and let cool. In a large bowl, combine the flour, salt, olive oil, and water. Use your hand or a spatula to mix together. Once the dough pulls away from sides of the bowl, transfer to a lightly floured surface and knead for 4 minutes or until the dough is smooth and soft. Shape dough into a ball and brush with olive oil. Cover with plastic wrap and a warm damp tea towel. Let rest for 30 minutes. Remove tea towel and plastic wrap and roll the dough out into a 10-inch (25-cm) long log. Cut into 10 even sections. Take one section and roll it into a ball. Place the ball on a lightly floured surface and use a rolling pin to roll it out into a thin circle about 10 inches (25-cm) in diameter. Repeat with the remaining dough. Stack the dough circles as you roll them out, sprinkling a bit of flour between each one and keeping them covered with plastic wrap so they don't dry out. In a greased large pan over high heat, place one of the circles of dough and cook for 10 seconds on each side. Repeat with remaining dough. Cut one of the par-cooked dough circles into four quarters. Take one quarter and, with the round side closest to you, fold the bottom half to the right. Use the flour paste to seal the fold. Repeat with the left side, crossing over your previous fold to create a cone like pocket. Fill the pocket with meat filling, then fold the remaining tip of the dough towards you and seal with flour paste. Repeat with the remaining dough and filling. In a large, deep pan, heat the canola oil to 350°F (180°C). Once the oil is at the correct temperature, carefully place 4-6 sambusas in the pan. Fry for about 5 minutes, flipping once, until light, golden brown. Remove from oil and drain on paper towels. ",
+        "category" : "Snack",
+        "orign" : "India, Sri Lanka, Middle East",
+        "duration" : 60
+      },
+      {
+        "id": 7,
+        "name": "Fudge Cake",
+        "description": "A fudge cake is a chocolate cake containing fudge.",
+        "ingredients" : "150ml sunflower oil, plus extra for the tin  175g self-raising flour 2 tbsp cocoa powder 1 tsp bicarbonate of soda 150g caster sugar 2 tbsp golden syrup  2 large eggs, lightly beaten 150ml semi-skimmed milk" ,
+        "method" : "Heat the oven to 180C/160C fan/gas 4. Oil and line the base of two 18cm sandwich tins. Sieve the flour, cocoa powder and bicarbonate of soda into a bowl. Add the caster sugar and mix well. Make a well in the centre and add the golden syrup, eggs, sunflower oil and milk. Beat well with an electric whisk until smooth. Pour the mixture into the two tins and bake for 25-30 mins until risen and firm to the touch. Remove from oven, leave to cool for 10 mins before turning out onto a cooling rack. To make the icing, beat the unsalted butter in a bowl until soft. Gradually sieve and beat in the icing sugar and cocoa powder, then add enough of the milk to make the icing fluffy and spreadable. Sandwich the two cakes together with the butter icing and cover the sides and the top of the cake with more icing. " ,
+        "image" : "./Assests/images/pngwing.com (6).png",
+        "category" : "Dessert",
+        "orign" : "Usa",
+        "duration" : 120
+      },
+      {
+        "id": 8,
+        "name": "Omelette",
+        "description": "In cuisine, an omelette is a dish made from beaten eggs, fried with butter or oil in a frying pan. It is quite common for the omelette to be folded around fillings such as chives, vegetables, mushrooms, meat, cheese, onions",
+        "ingredients" : "3 eggs, beaten 1 tsp sunflower oil 1 tsp butter" ,
+        "method" : "Beat the eggs: Use two or three eggs per omelette, depending on how hungry you are. Beat the eggs lightly with a fork. Melt the butter: Use an 8-inch nonstick skillet for a 2-egg omelette, a 9-inch skillet for 3 eggs. Melt the butter over medium-low heat, and keep the temperature low and slow when cooking the eggs so the bottom doesn’t get too brown or overcooked. Add the eggs: Let the eggs sit for a minute, then use a heatproof silicone spatula to gently lift the cooked eggs from the edges of the pan. Tilt the pan to allow the uncooked eggs to flow to the edge of the pan. Fill the omelette: Add the filling—but don’t overstuff the omelette—when the eggs begin to set. Cook for a few more seconds Fold and serve: Fold the omelette in half. Slide it onto a plate with the help of a silicone spatula. " ,
+        "image" : "./Assests/images/pngwing.com (7).png",
+        "category" : "Breakfast",
+        "orign" : "Ancient Persia",
+        "duration" : 10
+      },
+      {
+        "id": 9,
+        "name": "Shawarma",
+        "description": "Shawarma is a popular Levantine dish consisting of meat cut into thin slices, stacked in a cone-like shape, and roasted on a slowly-turning vertical rotisserie or spit. Originally made with lamb or mutton, it is now also made of chicken, turkey, beef, or veal.",
+        "ingredients" : "1/2 c. extra-virgin olive oil Juice of 1 lemon 3 cloves garlic, minced 2 tsp. kosher salt 1 tsp. ground cumin 1 tsp. ground coriander  1/2 tsp. freshly ground black pepper  1/2 tsp. ground turmeric  1/4 tsp. ground cinnamon  1/4 tsp. cayenne pepper  2 lb. boneless skinless chicken thighs  Cooking spray  1 large onion, thinly sliced" ,
+        "method" : "Make chicken: In a large bowl, whisk together oil, lemon juice, garlic, and seasonings. Add chicken and toss to coat. Cover and refrigerate for at least 2 hours and up to overnight. Preheat oven to 425° and grease a large baking sheet with cooking spray. Add onion to marinade and toss to coat. Remove chicken and onion from marinade and place on prepared baking sheet. Bake until chicken is golden and cooked through, 30 minutes. Let chicken rest on cutting board for 5 minutes, then thinly slice. Meanwhile, make yogurt sauce: In a small bowl, whisk together yogurt, lemon juice, oil, and garlic. Season with salt and a pinch of red pepper flakes. To serve as a pita, top warmed pitas with chicken, onion, romaine, tomatoes, cucumber, and yogurt sauce." ,
+        "image" : "./Assests/images/pngwing.com (3).png",
+        "category" : "Lunch",
+        "orign" : "Beirut",
+        "duration" : 40
+      }
+    ]
+  }
